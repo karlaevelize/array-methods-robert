@@ -1,0 +1,24 @@
+{
+  "name": "bootcamp03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlaevelize/array-methods-robert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlaevelize/array-methods-robert/issues"
+  },
+  "homepage": "https://github.com/karlaevelize/array-methods-robert#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "to-title-case": "^1.0.0"
+  }
+}
